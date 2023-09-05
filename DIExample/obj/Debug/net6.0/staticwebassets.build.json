@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "qg4nz4znVkCETIl9HGRGrDIVdyt9W5+z6EgxMpXaVTI=",
+  "Source": "DIServiceScopeCoreMVC",
+  "BasePath": "_content/DIServiceScopeCoreMVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DIServiceScopeCoreMVC\\wwwroot",
+      "Source": "DIServiceScopeCoreMVC",
+      "ContentRoot": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\08. Service Scope\\DIExample\\wwwroot\\",
+      "BasePath": "_content/DIServiceScopeCoreMVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\08. Service Scope\\DIExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "DIServiceScopeCoreMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\08. Service Scope\\DIExample\\wwwroot\\",
+      "BasePath": "_content/DIServiceScopeCoreMVC",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

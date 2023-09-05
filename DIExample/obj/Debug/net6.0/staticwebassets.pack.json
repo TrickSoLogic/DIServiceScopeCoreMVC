@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\08. Service Scope\\DIExample\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DIServiceScopeCoreMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DIServiceScopeCoreMVC.props",
+      "PackagePath": "build\\DIServiceScopeCoreMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DIServiceScopeCoreMVC.props",
+      "PackagePath": "buildMultiTargeting\\DIServiceScopeCoreMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DIServiceScopeCoreMVC.props",
+      "PackagePath": "buildTransitive\\DIServiceScopeCoreMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
